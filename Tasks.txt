@@ -1,0 +1,15 @@
+Design:
+Add a car model (neon style) - To do
+Add a sky background (night, full of stars) - To do
+Add coin model (neon style) - To do
+Add the race field (neon style) - To do
+
+Coding:
+Make the background and the racefield visible - To do
+Add the car on the racefield - To do
+Make the racefield animation and logic - To do
+Make the car animation and logic - To do
+Make the coins animation and logic - To do
+Make the hud and logic - To do
+Add music playlist - To do
+Add music logic - To do
